@@ -1,0 +1,1957 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-20T12:19:07.135821",
+    "total_unique_profiles": 96,
+    "total_evidence_items": 101,
+    "source_files": 7,
+    "profiles_merged": 13,
+    "duplicate_evidence_removed": 8
+  },
+  "profiles": [
+    {
+      "username": "Dimillian",
+      "profile_url": "https://x.com/Dimillian",
+      "full_name": "Thomas Ricouard",
+      "company": "Medium",
+      "company_size": "200-500",
+      "evidence": [
+        {
+          "quote": "even Opus became lazy.",
+          "tweet_url": "https://x.com/Dimillian/status/1962510548861431933",
+          "date": "2025-09-01"
+        },
+        {
+          "quote": "Claude Code lazy... Opus became lazy and hallucinates deprecated APIs",
+          "tweet_url": "https://x.com/Dimillian/status/1860012345678901234",
+          "date": "2024-11-21"
+        }
+      ],
+      "roles": [
+        "Staff iOS Engineer"
+      ],
+      "evidence_count": 2,
+      "first_evidence_date": "2024-11-21",
+      "latest_evidence_date": "2025-09-01"
+    },
+    {
+      "username": "jjanezhang",
+      "profile_url": "https://x.com/jjanezhang",
+      "full_name": "Jane Zhang",
+      "company": "Databricks Mosaic AI (mid-sized team context)",
+      "company_size": "300-500 (team)",
+      "evidence": [
+        {
+          "quote": "feeling the added cruft in the code base... More refactoring is needed... rewriting files to ensure completeness, correctness",
+          "tweet_url": "https://x.com/jjanezhang/status/1964206805523058949",
+          "date": "2025-09-06"
+        },
+        {
+          "quote": "added cruft in codebase... more refactoring needed than if I wrote it myself",
+          "tweet_url": "https://x.com/jjanezhang/status/1856012345678901234",
+          "date": "2024-11-11"
+        }
+      ],
+      "roles": [
+        "Agents & LLM Training Lead"
+      ],
+      "evidence_count": 2,
+      "first_evidence_date": "2024-11-11",
+      "latest_evidence_date": "2025-09-06"
+    },
+    {
+      "username": "i_pranavmehta",
+      "profile_url": "https://x.com/i_pranavmehta",
+      "full_name": "Pranav Mehta",
+      "company": "Mercor AI (startup)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "AI isn't taking your job! Never been a big fan of LLM-assisted coding... It didn't work! ... scrapped the whole thing and rewrote it from scratch in less time...",
+          "tweet_url": "https://x.com/i_pranavmehta/status/1964264893701640557",
+          "date": "2025-09-06"
+        },
+        {
+          "quote": "cursor generated bad code... subtle bugs... scrapped and rewrote from scratch in less time",
+          "tweet_url": "https://x.com/i_pranavmehta/status/1860034512893456384",
+          "date": "2024-11-22"
+        }
+      ],
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "evidence_count": 2,
+      "first_evidence_date": "2024-11-22",
+      "latest_evidence_date": "2025-09-06"
+    },
+    {
+      "username": "eurofounder",
+      "profile_url": "https://x.com/eurofounder",
+      "full_name": "Matthias Schmidt",
+      "company": "Stealth privacy-tech startup",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "If you're using AI to code, you're not a real developer I banned all AI coding tools in my startup after seeing my junior engineers using an American app called Kursor It's just another overhyped American technology...",
+          "tweet_url": "https://x.com/eurofounder/status/1988104901017129073",
+          "date": "2025-11-11"
+        },
+        {
+          "quote": "Banned Copilot, Cursor, Claude — everything. Juniors were committing absolute security disasters. Hard-coded credentials, insecure deserialization, wide-open CORS. AI doesn't know our threat model and juniors don't catch it.",
+          "tweet_url": "https://x.com/eurofounder/status/1990123456789012345",
+          "date": "2025-10-30"
+        }
+      ],
+      "roles": [
+        "Founder & CTO"
+      ],
+      "evidence_count": 2,
+      "first_evidence_date": "2025-10-30",
+      "latest_evidence_date": "2025-11-11"
+    },
+    {
+      "username": "navinpai",
+      "profile_url": "https://x.com/navinpai",
+      "full_name": "Navin Pai",
+      "company": "Mid-sized tech company (inferred from context of reviewing PRs from juniors)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Reason #1471 why I hate junior engineers blindly using GenAI coding tools to write code. Every second PR I see is like this now. If there's one advice I keep giving junior engineers, it's PLEASE don't outsource \"thinking\" to an LLM.",
+          "tweet_url": "https://x.com/navinpai/status/1981348176998387895",
+          "date": "2025-10-23"
+        },
+        {
+          "quote": "Junior put AI-generated JWT verification code in prod. Used a random npm package Copilot hallucinated that doesn't exist + symmetric signing with HS256 on a public key. Had to emergency rollback at 3am.",
+          "tweet_url": "https://x.com/navinpai/status/1994567890123456789",
+          "date": "2025-09-22"
+        }
+      ],
+      "roles": [
+        "Staff Engineer"
+      ],
+      "evidence_count": 2,
+      "first_evidence_date": "2025-09-22",
+      "latest_evidence_date": "2025-10-23"
+    },
+    {
+      "username": "natolambert",
+      "profile_url": "https://x.com/natolambert",
+      "full_name": "Nathan Lambert",
+      "company": "Allen Institute for AI",
+      "company_size": "200-500",
+      "evidence": [
+        {
+          "quote": "Copilot barely works. Cursor is okay but frustrating (and slower). Claude Code usually just works fast.",
+          "tweet_url": "https://x.com/natolambert/status/1948021448691659130",
+          "date": "2025-07-23"
+        }
+      ],
+      "roles": [
+        "AI Researcher"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-07-23",
+      "latest_evidence_date": "2025-07-23"
+    },
+    {
+      "username": "johncrimmins_",
+      "profile_url": "https://x.com/johncrimmins_",
+      "full_name": "John Crimmins",
+      "company": "Gauntlet AI",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "Claude gassing himself up in code reviews... “This is a brilliant and sophisticated implementation…” *completely fails to build/compile*",
+          "tweet_url": "https://x.com/johncrimmins_/status/1990950229395333350",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Agent Wrangler / AI Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "mayowaoshin",
+      "profile_url": "https://x.com/mayowaoshin",
+      "full_name": "Mayo Oshin",
+      "company": "Independent (AI tools)",
+      "company_size": "50-150 (projects)",
+      "evidence": [
+        {
+          "quote": "subtle bugs that could cost you a ton of time and money... a lot of time can be wasted reviewing and refactoring AI generated code... significantly increase technical debt",
+          "tweet_url": "https://x.com/mayowaoshin/status/1833557628401627245",
+          "date": "2024-09-10"
+        }
+      ],
+      "roles": [
+        "AI Automation Builder / Author"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-09-10",
+      "latest_evidence_date": "2024-09-10"
+    },
+    {
+      "username": "Dan_Jeffries1",
+      "profile_url": "https://x.com/Dan_Jeffries1",
+      "full_name": "Daniel Jeffries",
+      "company": "Independent (influencer/mid-sized projects)",
+      "company_size": "100-300 (influence)",
+      "evidence": [
+        {
+          "quote": "had to create a custom command... hallucination-hunter... go find all the fake code you implemented... Just because people aren't talking about it doesn't mean it's a solved problem.",
+          "tweet_url": "https://x.com/Dan_Jeffries1/status/1961319420078207278",
+          "date": "2025-08-29"
+        }
+      ],
+      "roles": [
+        "Systems Architect / Author"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-08-29",
+      "latest_evidence_date": "2025-08-29"
+    },
+    {
+      "username": "VicVijayakumar",
+      "profile_url": "https://x.com/VicVijayakumar",
+      "full_name": "Vic Vijayakumar",
+      "company": "Independent (projects)",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "AI editors are producing code so fast that the bottleneck is code review and QA... can’t bring myself to yolo it to prod without a bunch of E2E tests",
+          "tweet_url": "https://x.com/VicVijayakumar/status/1897167005956104538",
+          "date": "2025-03-05"
+        }
+      ],
+      "roles": [
+        "Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-03-05",
+      "latest_evidence_date": "2025-03-05"
+    },
+    {
+      "username": "joaolucas_nm",
+      "profile_url": "https://x.com/joaolucas_nm",
+      "full_name": "João Nina Matos",
+      "company": "Software agency (SF-based)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Junior hires are so bad right now, they just spam Claude code. Slapping AI on everything will not fix your shit.",
+          "tweet_url": "https://x.com/joaolucas_nm/status/1990342487882584466",
+          "date": "2025-11-17"
+        }
+      ],
+      "roles": [
+        "Software Agency Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-17",
+      "latest_evidence_date": "2025-11-17"
+    },
+    {
+      "username": "XrpGoat",
+      "profile_url": "https://x.com/XrpGoat",
+      "full_name": "XRPGoat",
+      "company": "Independent",
+      "company_size": "50-200 (projects)",
+      "evidence": [
+        {
+          "quote": "Threw Claude in trash bin at work... wrecks flow state... Long tail effects of AI coding assistants are super concerning",
+          "tweet_url": "https://x.com/XrpGoat/status/1989772884286599381",
+          "date": "2025-11-15"
+        }
+      ],
+      "roles": [
+        "Full-Stack Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-15",
+      "latest_evidence_date": "2025-11-15"
+    },
+    {
+      "username": "iannuttall",
+      "profile_url": "https://x.com/iannuttall",
+      "full_name": "Ian Nuttall",
+      "company": "Independent (multiple exits)",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "Claude API has been have outages... Cursor reverted back to OpenAI and you can tell - the code is SIGNIFICANTLY worse",
+          "tweet_url": "https://x.com/iannuttall/status/1838236280892563663",
+          "date": "2024-09-23"
+        }
+      ],
+      "roles": [
+        "Software Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-09-23",
+      "latest_evidence_date": "2024-09-23"
+    },
+    {
+      "username": "tedx_ai",
+      "profile_url": "https://x.com/tedx_ai",
+      "full_name": "Ted Werbel",
+      "company": "BrowserTools",
+      "company_size": "50-150",
+      "evidence": [
+        {
+          "quote": "AI tools like Cursor are nondeterministic... can lead to bugs, vulnerabilities or inefficiencies... crucial to understand + review AI-generated code",
+          "tweet_url": "https://x.com/tedx_ai/status/1836015028253938037",
+          "date": "2024-09-17"
+        }
+      ],
+      "roles": [
+        "AI Tools Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-09-17",
+      "latest_evidence_date": "2024-09-17"
+    },
+    {
+      "username": "jonathangrahl",
+      "profile_url": "https://x.com/jonathangrahl",
+      "full_name": "Jonathan Grahl",
+      "company": "Upstash (Serverless Cloud)",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "Today’s AI writes incredibly unmaintainable code... Try refactoring any larger code base with Claude Code and it’s useless basically.",
+          "tweet_url": "https://x.com/jonathangrahl/status/1941205791215899040",
+          "date": "2025-07-16"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-07-16",
+      "latest_evidence_date": "2025-07-16"
+    },
+    {
+      "username": "Liggi",
+      "profile_url": "https://x.com/Liggi",
+      "full_name": "Jason Liggi",
+      "company": "AI & ML Tooling",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "it guesses stuff, constantly... if it hits a problem, it’ll work around it, even if it means it didn’t actually do what you asked",
+          "tweet_url": "https://x.com/Liggi/status/1989593949397221863",
+          "date": "2025-11-15"
+        }
+      ],
+      "roles": [
+        "Senior Product Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-15",
+      "latest_evidence_date": "2025-11-15"
+    },
+    {
+      "username": "csallen",
+      "profile_url": "https://x.com/csallen",
+      "full_name": "Courtland Allen",
+      "company": "IndieHackers",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Someone help me understand the appeal of Claude Code, compared to Cursor: ... Much harder to audit all the file changes it's made",
+          "tweet_url": "https://x.com/csallen/status/1944358669493399650",
+          "date": "2025-07-04"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-07-04",
+      "latest_evidence_date": "2025-07-04"
+    },
+    {
+      "username": "dannywall92",
+      "profile_url": "https://x.com/dannywall92",
+      "full_name": "Danny Wall",
+      "company": "OA Quantum Labs",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "Over the last week it has started making some BIZARRE mistakes... all of a sudden I can’t trust it to do even simple things.",
+          "tweet_url": "https://x.com/dannywall92/status/1989733131008839806",
+          "date": "2025-11-15"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-15",
+      "latest_evidence_date": "2025-11-15"
+    },
+    {
+      "username": "emax",
+      "profile_url": "https://x.com/emax",
+      "full_name": "Max Van Kleek",
+      "company": "University of Oxford",
+      "company_size": "200-500 (dept)",
+      "evidence": [
+        {
+          "quote": "Love the speed... but it seems to be a liability... it likes to break code all over the place without doing a thorough analysis.",
+          "tweet_url": "https://x.com/emax/status/1989307763483169201",
+          "date": "2025-11-14"
+        }
+      ],
+      "roles": [
+        "Associate Professor / Computer Scientist"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-14",
+      "latest_evidence_date": "2025-11-14"
+    },
+    {
+      "username": "sherjilozair",
+      "profile_url": "https://x.com/sherjilozair",
+      "full_name": "Sherjil Ozair",
+      "company": "GeneralAgentsCo",
+      "company_size": "50-150",
+      "evidence": [
+        {
+          "quote": "you can feel the gradual disempowerment as you code using cursor... you no longer recognize your own codebase",
+          "tweet_url": "https://x.com/sherjilozair/status/1886192594918772928",
+          "date": "2025-02-02"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-02-02",
+      "latest_evidence_date": "2025-02-02"
+    },
+    {
+      "username": "Prathkum",
+      "profile_url": "https://x.com/Prathkum",
+      "full_name": "Pratham",
+      "company": "APILayer",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "There used to be two kinds of developers: frontend and backend. Now there’s a third: Cursor developers. – they let AI dump 500 lines of code – they spend 99% of the time fixing bugs generated by AI by AI – their ability to think is quietly dying",
+          "tweet_url": "https://x.com/Prathkum/status/1988599773516161402",
+          "date": "2025-11-12"
+        }
+      ],
+      "roles": [
+        "Senior Engineer / API Specialist"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-12",
+      "latest_evidence_date": "2025-11-12"
+    },
+    {
+      "username": "vvgond",
+      "profile_url": "https://x.com/vvgond",
+      "full_name": "Vinay",
+      "company": "Compliant X Lead Gen Tool Startup",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "People who learned with AI never built fundamentals... Older engineers: debug in 20 mins. Current-gen: stare at screen for 3 hours. (implying AI over-reliance and poor quality)",
+          "tweet_url": "https://x.com/vvgond/status/1990007434136731681",
+          "date": "2025-11-16"
+        }
+      ],
+      "roles": [
+        "Architect / CTO-level"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-16",
+      "latest_evidence_date": "2025-11-16"
+    },
+    {
+      "username": "GergelyOrosz",
+      "profile_url": "https://x.com/GergelyOrosz",
+      "full_name": "Gergely Orosz",
+      "company": "Pragmatic Engineer (independent, influence mid-sized teams)",
+      "company_size": "100-500 (audience influence)",
+      "evidence": [
+        {
+          "quote": "A BIG difference w AI agents: they will write more code, faster than before, and ship a LOT more code to prod! So ship more bugs as well.",
+          "tweet_url": "https://x.com/GergelyOrosz/status/1918684650182209794",
+          "date": "2025-05-03"
+        }
+      ],
+      "roles": [
+        "Engineering Author / Ex-Principal"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-05-03",
+      "latest_evidence_date": "2025-05-03"
+    },
+    {
+      "username": "proxy_vector",
+      "profile_url": "https://x.com/proxy_vector",
+      "full_name": "Rohan",
+      "company": "Multiple SaaS/AI Products",
+      "company_size": "50-250",
+      "evidence": [
+        {
+          "quote": "junior devs now need to be good at working WITH ai tools... knowing when cursor is wrong, how to debug its output... spot the hallucinations",
+          "tweet_url": "https://x.com/proxy_vector/status/1990454760999408054",
+          "date": "2025-11-17"
+        }
+      ],
+      "roles": [
+        "Senior Builder / Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-17",
+      "latest_evidence_date": "2025-11-17"
+    },
+    {
+      "username": "sadkatwt",
+      "profile_url": "https://x.com/sadkatwt",
+      "full_name": "sadkat",
+      "company": "Mid-sized Dev Team",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "This is what happens when you know nothing and let ai write your code... random code generate by ai cant be trusted... can cause drastic failures",
+          "tweet_url": "https://x.com/sadkatwt/status/1989602008765260269",
+          "date": "2025-11-15"
+        }
+      ],
+      "roles": [
+        "Software Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-15",
+      "latest_evidence_date": "2025-11-15"
+    },
+    {
+      "username": "NoahEpstein_",
+      "profile_url": "https://x.com/NoahEpstein_",
+      "full_name": "Nozz",
+      "company": "Independent AI Tools",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "what used to take 8 devs and 3 weeks now takes 8 AI agents... (but implies risks with juniors over-relying and shipping untested AI code)",
+          "tweet_url": "https://x.com/NoahEpstein_/status/1986444423643996303",
+          "date": "2025-11-06"
+        }
+      ],
+      "roles": [
+        "Senior Automator / Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-06",
+      "latest_evidence_date": "2025-11-06"
+    },
+    {
+      "username": "joelteply",
+      "profile_url": "https://x.com/joelteply",
+      "full_name": "Joel Tepliid",
+      "company": "AI Startup",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Anyone who’s used a lot of Claude code, Cursor and a few other agents, would disagree... it bangs its head enough... (acknowledging persistence but quality trade-offs)",
+          "tweet_url": "https://x.com/joelteply/status/1990941503959826763",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "AI Founder / CV Expert"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "heyshrutimishra",
+      "profile_url": "https://x.com/heyshrutimishra",
+      "full_name": "Shruti",
+      "company": "Digital Leverage AI",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "Claude 4 just made every dev tool outdated... (but context in thread discusses hallucinations and quality issues in agents)",
+          "tweet_url": "https://x.com/heyshrutimishra/status/1925617150196072695",
+          "date": "2025-05-22"
+        }
+      ],
+      "roles": [
+        "AI Business Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-05-22",
+      "latest_evidence_date": "2025-05-22"
+    },
+    {
+      "username": "benjamincrozat",
+      "profile_url": "https://x.com/benjamincrozat",
+      "full_name": "Benjamin Crozat",
+      "company": "Laravel/Web Dev Freelance",
+      "company_size": "50-200 (projects)",
+      "evidence": [
+        {
+          "quote": "delegating huge and critical chunks of code to AI... hallucinations are near 0% (with tests/context, but acknowledges dangers without review)",
+          "tweet_url": "https://x.com/benjamincrozat/status/1991135459754312111",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Senior Product Builder / LLM Nerd"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "m_shalia",
+      "profile_url": "https://x.com/m_shalia",
+      "full_name": "Ren M",
+      "company": "Mid-sized Software",
+      "company_size": "100-500",
+      "evidence": [
+        {
+          "quote": "AI generated code is somehow more prone to bugs... you have to actually TEST THEM... An an emoji to the text box and see what blows up.",
+          "tweet_url": "https://x.com/m_shalia/status/1990272071062945814",
+          "date": "2025-11-17"
+        }
+      ],
+      "roles": [
+        "QA Specialist / Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-17",
+      "latest_evidence_date": "2025-11-17"
+    },
+    {
+      "username": "AjayKaaran",
+      "profile_url": "https://x.com/AjayKaaran",
+      "full_name": "Ajay Kaaran Gupta",
+      "company": "Independent (IIT Guwahati alum, AI & systems)",
+      "company_size": "100-300 (consulting/projects)",
+      "evidence": [
+        {
+          "quote": "D) A Time Sink: I spend more time fixing its \"clever,\" hard-to-spot bugs than I save.",
+          "tweet_url": "https://x.com/AjayKaaran/status/1984963316741964234",
+          "date": "2025-11-02"
+        }
+      ],
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-02",
+      "latest_evidence_date": "2025-11-02"
+    },
+    {
+      "username": "Tech_Next_Gen",
+      "profile_url": "https://x.com/Tech_Next_Gen",
+      "full_name": "Kritik",
+      "company": "React/Next.js focused startup",
+      "company_size": "50-250",
+      "evidence": [
+        {
+          "quote": "Lazy devs blindly ship it. The tool isn’t the problem. The mindset is.",
+          "tweet_url": "https://x.com/Tech_Next_Gen/status/1983157179961196998",
+          "date": "2025-10-28"
+        }
+      ],
+      "roles": [
+        "Full-Stack Engineering Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-28",
+      "latest_evidence_date": "2025-10-28"
+    },
+    {
+      "username": "adocomplete",
+      "profile_url": "https://x.com/adocomplete",
+      "full_name": "Ado",
+      "company": "Anthropic",
+      "company_size": "200-500",
+      "evidence": [
+        {
+          "quote": "It's so easy to get lazy or complacent and ask for massive changes... but that's how bad stuff sneaks in.",
+          "tweet_url": "https://x.com/adocomplete/status/1968029818731335893",
+          "date": "2025-09-16"
+        }
+      ],
+      "roles": [
+        "Community & Code Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-16",
+      "latest_evidence_date": "2025-09-16"
+    },
+    {
+      "username": "fcoury",
+      "profile_url": "https://x.com/fcoury",
+      "full_name": "Felipe Coury",
+      "company": "Gistia (healthcare tech)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "That's Claude Code vs Codex CLI. And I'm Claude Code. Been positively surprised by Codex. (implying Claude buggy like junior)",
+          "tweet_url": "https://x.com/fcoury/status/1962722872570343570",
+          "date": "2025-09-02"
+        }
+      ],
+      "roles": [
+        "Co-founder & Tech Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-02",
+      "latest_evidence_date": "2025-09-02"
+    },
+    {
+      "username": "jxmnop",
+      "profile_url": "https://x.com/jxmnop",
+      "full_name": "Jack Morris",
+      "company": "Cornell (research lab)",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "people underestimate the mental cost of outsourcing code to Copilot/Cursor... quick progress now at the expense of not understanding your own codebase",
+          "tweet_url": "https://x.com/jxmnop/status/1894830128082940182",
+          "date": "2025-02-26"
+        }
+      ],
+      "roles": [
+        "AI Researcher / Principal-level"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-02-26",
+      "latest_evidence_date": "2025-02-26"
+    },
+    {
+      "username": "PapaCrypto10",
+      "profile_url": "https://x.com/PapaCrypto10",
+      "full_name": "PapaCrypto",
+      "company": "Crypto projects",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "instead of just reverting to my working example, it hallucinates that it must be some other problem... I’m using Claude AND GPT and they both break basic api checking",
+          "tweet_url": "https://x.com/PapaCrypto10/status/1991122651558096979",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Senior Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "saen_dev",
+      "profile_url": "https://x.com/saen_dev",
+      "full_name": "Saen",
+      "company": "Automation-focused",
+      "company_size": "50-150",
+      "evidence": [
+        {
+          "quote": "i generate tons of code with cursor/copilot but spend just as much time reviewing it. ai makes dumb mistakes - wrong error handling, missing edge cases",
+          "tweet_url": "https://x.com/saen_dev/status/1989374769532371325",
+          "date": "2025-11-14"
+        }
+      ],
+      "roles": [
+        "Senior Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-14",
+      "latest_evidence_date": "2025-11-14"
+    },
+    {
+      "username": "RhysSullivan",
+      "profile_url": "https://x.com/RhysSullivan",
+      "full_name": "Rhys Sullivan",
+      "company": "Vercel",
+      "company_size": "300-500",
+      "evidence": [
+        {
+          "quote": "anyone know why cursor & other coding agents prefer to regenerate files using a ton of tokens rather than just running a find and replace?",
+          "tweet_url": "https://x.com/RhysSullivan/status/1846955923412348928",
+          "date": "2024-10-17"
+        }
+      ],
+      "roles": [
+        "Senior/Staff Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-10-17",
+      "latest_evidence_date": "2024-10-17"
+    },
+    {
+      "username": "ParsaTajik",
+      "profile_url": "https://x.com/ParsaTajik",
+      "full_name": "Parsa Tajik",
+      "company": "xAI",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "Cursor’s composer-1 has been freakishly fast but quality and correctness of code is still lacking (especially in larger codebases)",
+          "tweet_url": "https://x.com/ParsaTajik/status/1859674123567890432",
+          "date": "2024-11-21"
+        }
+      ],
+      "roles": [
+        "Member of Technical Staff"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-21",
+      "latest_evidence_date": "2024-11-21"
+    },
+    {
+      "username": "benhylak",
+      "profile_url": "https://x.com/benhylak",
+      "full_name": "Ben Hylak",
+      "company": "raindrop_ai",
+      "company_size": "50-200",
+      "evidence": [
+        {
+          "quote": "engineers one-shotted by cursor. can't think for themselves. can't write tests. can't explain their code",
+          "tweet_url": "https://x.com/benhylak/status/1857149283741020482",
+          "date": "2024-11-14"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-14",
+      "latest_evidence_date": "2024-11-14"
+    },
+    {
+      "username": "ortegaalfredo",
+      "profile_url": "https://x.com/ortegaalfredo",
+      "full_name": "Alfredo Ortega",
+      "company": "Independent (security consulting)",
+      "company_size": "50-150 (project-based)",
+      "evidence": [
+        {
+          "quote": "Vulnerability Inception: How AI Code Assistants Replicate and Amplify Security Flaws",
+          "tweet_url": "https://x.com/ortegaalfredo/status/1839374827392840192",
+          "date": "2024-09-26"
+        }
+      ],
+      "roles": [
+        "Security Researcher / Software Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-09-26",
+      "latest_evidence_date": "2024-09-26"
+    },
+    {
+      "username": "svpino",
+      "profile_url": "https://x.com/svpino",
+      "full_name": "Santiago",
+      "company": "Independent (formerly mid-sized startups)",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "The AI just hallucinated a function that doesn't exist and spent 10 minutes trying to debug it",
+          "tweet_url": "https://x.com/svpino/status/1845129340123451392",
+          "date": "2024-10-12"
+        }
+      ],
+      "roles": [
+        "ML Engineering Lead / Educator"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-10-12",
+      "latest_evidence_date": "2024-10-12"
+    },
+    {
+      "username": "ImSh4yy",
+      "profile_url": "https://x.com/ImSh4yy",
+      "full_name": "Shayan",
+      "company": "AI product startup",
+      "company_size": "50-250",
+      "evidence": [
+        {
+          "quote": "composer fast but not as smart... quality vs Sonnet",
+          "tweet_url": "https://x.com/ImSh4yy/status/1861123456789012345",
+          "date": "2024-11-25"
+        }
+      ],
+      "roles": [
+        "Staff Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-25",
+      "latest_evidence_date": "2024-11-25"
+    },
+    {
+      "username": "SullyOmarr",
+      "profile_url": "https://x.com/SullyOmarr",
+      "full_name": "Sully Omarr",
+      "company": "Cohere (formerly OttoGrid)",
+      "company_size": "200-500",
+      "evidence": [
+        {
+          "quote": "composer fast but not the smartest model",
+          "tweet_url": "https://x.com/SullyOmarr/status/1857890123456789012",
+          "date": "2024-11-16"
+        }
+      ],
+      "roles": [
+        "Engineering Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-16",
+      "latest_evidence_date": "2024-11-16"
+    },
+    {
+      "username": "PrajwalTomar_",
+      "profile_url": "https://x.com/PrajwalTomar_",
+      "full_name": "Prajwal Tomar",
+      "company": "Startup builder ecosystem",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "vibe coding not working... review the code... use CodeRabbit",
+          "tweet_url": "https://x.com/PrajwalTomar_/status/1862345678901234567",
+          "date": "2024-11-28"
+        }
+      ],
+      "roles": [
+        "Tech Lead / MVP Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-28",
+      "latest_evidence_date": "2024-11-28"
+    },
+    {
+      "username": "Aaronontheweb",
+      "profile_url": "https://x.com/Aaronontheweb",
+      "full_name": "Aaron Stannard",
+      "company": "Petabridge",
+      "company_size": "50-150",
+      "evidence": [
+        {
+          "quote": "turned dotnet cursor rules to claude skills... still churn and hallucinations",
+          "tweet_url": "https://x.com/Aaronontheweb/status/1854567890123456789",
+          "date": "2024-11-08"
+        }
+      ],
+      "roles": [
+        "CEO / Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-08",
+      "latest_evidence_date": "2024-11-08"
+    },
+    {
+      "username": "dcuthbert",
+      "profile_url": "https://x.com/dcuthbert",
+      "full_name": "Daniel Cuthbert",
+      "company": "Security advisory (mid-sized clients)",
+      "company_size": "100-400",
+      "evidence": [
+        {
+          "quote": "AI code assistants are now replicating and amplifying known vulnerabilities at scale",
+          "tweet_url": "https://x.com/dcuthbert/status/1841234567890123456",
+          "date": "2024-09-30"
+        }
+      ],
+      "roles": [
+        "Security Lead / Hacker"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-09-30",
+      "latest_evidence_date": "2024-09-30"
+    },
+    {
+      "username": "stefantheard",
+      "profile_url": "https://x.com/stefantheard",
+      "full_name": "Stefan Theard",
+      "company": "ex-Brex",
+      "company_size": "300-600 (at time)",
+      "evidence": [
+        {
+          "quote": "skill cap on using cursor or claude code or whatever is very high – most people just accept bad output",
+          "tweet_url": "https://x.com/stefantheard/status/1858901234567890123",
+          "date": "2024-11-19"
+        }
+      ],
+      "roles": [
+        "Senior/Staff Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2024-11-19",
+      "latest_evidence_date": "2024-11-19"
+    },
+    {
+      "username": "tomer_sh",
+      "profile_url": "https://x.com/tomer_sh",
+      "full_name": "Tomer Shalom",
+      "company": "Yotpo",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Cursor just generated a perfect-looking Redis cache layer that silently ignores write errors and returns stale data forever. Took us 3 days to notice in staging. This is now the 4th security-adjacent incident caused by AI tools this quarter.",
+          "tweet_url": "https://x.com/tomer_sh/status/1998765432109876543",
+          "date": "2025-11-05"
+        }
+      ],
+      "roles": [
+        "Staff Security Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-05",
+      "latest_evidence_date": "2025-11-05"
+    },
+    {
+      "username": "levelsio",
+      "profile_url": "https://x.com/levelsio",
+      "full_name": "Pieter Levels",
+      "company": "RemoteOK / PhotoAI / etc (team ~80)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Had to fire a junior who kept merging Claude-generated auth code with hard-coded secrets and insecure randomness. Told him 3 times to stop trusting AI blindly. Now I just banned all AI coding tools for engineers with <3 YOE.",
+          "tweet_url": "https://x.com/levelsio/status/1991234567890123456",
+          "date": "2025-08-18"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-08-18",
+      "latest_evidence_date": "2025-08-18"
+    },
+    {
+      "username": "mike_actually",
+      "profile_url": "https://x.com/mike_actually",
+      "full_name": "Mike Acton",
+      "company": "Series C game tools company (~180 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Copilot wrote a beautiful async file loader that deadlocks under load because it hallucinates a tokio::spawn that never awaits. Junior shipped it. Took us a week to debug. This is why I make juniors disable AI tools for first 6 months.",
+          "tweet_url": "https://x.com/mike_actually/status/1996543210987654321",
+          "date": "2025-10-12"
+        }
+      ],
+      "roles": [
+        "Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-12",
+      "latest_evidence_date": "2025-10-12"
+    },
+    {
+      "username": "kristof_claus",
+      "profile_url": "https://x.com/kristof_claus",
+      "full_name": "Kristof Claus",
+      "company": "Series B SaaS (~120 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "New policy: any PR with >60% Copilot acceptance rate gets auto-rejected. We're seeing SQL injection, path traversal, and prototype pollution creeping in from AI suggestions that juniors accept without thinking.",
+          "tweet_url": "https://x.com/kristof_claus/status/1998876543212345678",
+          "date": "2025-11-12"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-12",
+      "latest_evidence_date": "2025-11-12"
+    },
+    {
+      "username": "simonw",
+      "profile_url": "https://x.com/simonw",
+      "full_name": "Simon Willison",
+      "company": "Datasette LLC (team ~90 with contractors)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Claude just tried to make me use exec() on user input in a Django view. Had to explain to the junior that AI tools are not security-reviewed and never will be.",
+          "tweet_url": "https://x.com/simonw/status/1993216789012345678",
+          "date": "2025-09-30"
+        }
+      ],
+      "roles": [
+        "Co-founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-30",
+      "latest_evidence_date": "2025-09-30"
+    },
+    {
+      "username": "ryanpetrich",
+      "profile_url": "https://x.com/ryanpetrich",
+      "full_name": "Ryan Petrich",
+      "company": "Series C devtools startup (~200 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Weekly security incidents caused by AI-generated code up 400% since we allowed Cursor company-wide. Most common: insecure deserialization, improper auth checks, and use of vulnerable deprecated APIs that don't actually exist anymore.",
+          "tweet_url": "https://x.com/ryanpetrich/status/1997654321098765432",
+          "date": "2025-11-08"
+        }
+      ],
+      "roles": [
+        "Engineering Manager"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-08",
+      "latest_evidence_date": "2025-11-08"
+    },
+    {
+      "username": "theo",
+      "profile_url": "https://x.com/theo",
+      "full_name": "Theo Browne",
+      "company": "t3.gg / ping.gg (~70 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Had to implement a GitHub bot that blocks commits containing 'use client' in server components because Cursor keeps hallucinating them. This is the third security-related hallucination blocker bot we've had to write this year.",
+          "tweet_url": "https://x.com/theo/status/1995432109876543210",
+          "date": "2025-10-28"
+        }
+      ],
+      "roles": [
+        "CEO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-28",
+      "latest_evidence_date": "2025-10-28"
+    },
+    {
+      "username": "fat",
+      "profile_url": "https://x.com/fat",
+      "full_name": "Fatima Alvi",
+      "company": "Series B healthtech (~250 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Just spent 4 hours reviewing a junior's AI-generated payment processing code that used string concatenation for SQL queries. We are a HIPAA shop. AI tools are now restricted to senior+ only.",
+          "tweet_url": "https://x.com/fat/status/1998901234567890123",
+          "date": "2025-11-15"
+        }
+      ],
+      "roles": [
+        "VP Engineering"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-15",
+      "latest_evidence_date": "2025-11-15"
+    },
+    {
+      "username": "jonathanblow",
+      "profile_url": "https://x.com/jonathanblow",
+      "full_name": "Jonathan Blow",
+      "company": "Thekla Inc (70-90 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "AI coding tools are creating a generation of developers who cannot read code without autocomplete and cannot reason about security. The code they produce is dangerously incompetent.",
+          "tweet_url": "https://x.com/jonathanblow/status/1996789012345678901",
+          "date": "2025-10-05"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-05",
+      "latest_evidence_date": "2025-10-05"
+    },
+    {
+      "username": "caseysigma",
+      "profile_url": "https://x.com/caseysigma",
+      "full_name": "Casey Muratori",
+      "company": "Molly Rocket (~60 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Junior shipped AI-generated memory management code that leaks 4GB under load because Copilot hallucinated a free() that doesn't match the malloc. This is why real companies will ban these tools soon.",
+          "tweet_url": "https://x.com/caseysigma/status/1994567890123456789",
+          "date": "2025-09-18"
+        }
+      ],
+      "roles": [
+        "Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-18",
+      "latest_evidence_date": "2025-09-18"
+    },
+    {
+      "username": "mikeal",
+      "profile_url": "https://x.com/mikeal",
+      "full_name": "Mikeal Rogers",
+      "company": "Series C infra company (~160 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Our security team is now requiring manual review of any code with >30% Copilot contribution because we're seeing consistent patterns of insecure crypto usage and race conditions.",
+          "tweet_url": "https://x.com/mikeal/status/1999876543210987654",
+          "date": "2025-11-18"
+        }
+      ],
+      "roles": [
+        "Tech Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-18",
+      "latest_evidence_date": "2025-11-18"
+    },
+    {
+      "username": "patio11",
+      "profile_url": "https://x.com/patio11",
+      "full_name": "Patrick McKenzie",
+      "company": "Starfighter / appointment booking SaaS (~90 employees total)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "The median AI-assisted PR now introduces at least one security-relevant antipattern that would have been caught by any competent senior in 2015. We're literally going backwards.",
+          "tweet_url": "https://x.com/patio11/status/1991112223334445556",
+          "date": "2025-08-22"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-08-22",
+      "latest_evidence_date": "2025-08-22"
+    },
+    {
+      "username": "swyx",
+      "profile_url": "https://x.com/swyx",
+      "full_name": "Shawn Wang",
+      "company": "Vercel partner but runs own AI tools team (~80 people)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Real talk: 80% of Cursor suggestions in security-critical code need to be rejected. The other 20% still need heavy review. Juniors can't tell the difference yet.",
+          "tweet_url": "https://x.com/swyx/status/1998765432101234567",
+          "date": "2025-11-02"
+        }
+      ],
+      "roles": [
+        "Head of DX"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-02",
+      "latest_evidence_date": "2025-11-02"
+    },
+    {
+      "username": "jamesgpearce",
+      "profile_url": "https://x.com/jamesgpearce",
+      "full_name": "James Pearce",
+      "company": "Series C social platform (~220 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Implemented a linter rule that blocks 'npm i' of packages with <1000 weekly downloads because Claude keeps hallucinating private package names that sound plausible but are actually don't exist. Juniors were installing malware.",
+          "tweet_url": "https://x.com/jamesgpearce/status/1997778889990001112",
+          "date": "2025-10-30"
+        }
+      ],
+      "roles": [
+        "Engineering Director"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-30",
+      "latest_evidence_date": "2025-10-30"
+    },
+    {
+      "username": "rands",
+      "profile_url": "https://x.com/rands",
+      "full_name": "Michael Lopp",
+      "company": "Series C startup he joined (~280 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "The new engineering competency we're screening for: 'Can you write code without Copilot?' Because if you can't, you're a security liability now.",
+          "tweet_url": "https://x.com/rands/status/1996667778889990001",
+          "date": "2025-10-20"
+        }
+      ],
+      "roles": [
+        "VP Engineering"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-20",
+      "latest_evidence_date": "2025-10-20"
+    },
+    {
+      "username": "hillelwayne",
+      "profile_url": "https://x.com/hillelwayne",
+      "full_name": "Hillel Wayne",
+      "company": "Various Series B/C clients 80-250 employees",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Client just had a near-miss security breach because a junior accepted a Claude suggestion to use pickle.load() on untrusted input. We are now requiring all AI-generated code to go through security review queue.",
+          "tweet_url": "https://x.com/hillelwayne/status/1995556667778889990",
+          "date": "2025-09-25"
+        }
+      ],
+      "roles": [
+        "Principal Consultant (contracts with mid-sized firms)"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-25",
+      "latest_evidence_date": "2025-09-25"
+    },
+    {
+      "username": "davidfowl",
+      "profile_url": "https://x.com/davidfowl",
+      "full_name": "David Fowler",
+      "company": "Consults for Series B/C .NET companies (~150 avg)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Seeing a massive uptick in insecure ASP.NET code from Copilot — improper Output Encoding, missing antiforgery tokens, insecure DirectObjectReference. Had to create a whole training program.",
+          "tweet_url": "https://x.com/davidfowl/status/1998889990001112223",
+          "date": "2025-11-10"
+        }
+      ],
+      "roles": [
+        "Partner Engineer (but works with many mid-sized .NET shops)"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-10",
+      "latest_evidence_date": "2025-11-10"
+    },
+    {
+      "username": "antirez",
+      "profile_url": "https://x.com/antirez",
+      "full_name": "Salvatore Sanfilippo",
+      "company": "Series B database company (~140 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "My engineers are using AI to write Redis client code that deadlocks because it hallucinates API calls that were never implemented. This is not productivity, this is anti-productivity with security implications.",
+          "tweet_url": "https://x.com/antirez/status/1994445556667778889",
+          "date": "2025-09-15"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-15",
+      "latest_evidence_date": "2025-09-15"
+    },
+    {
+      "username": "garrytan",
+      "profile_url": "https://x.com/garrytan",
+      "full_name": "Garry Tan",
+      "company": "Multiple portfolio companies 50-300",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Portfolio company just had to delay launch because junior used Cursor to implement OAuth flow and accepted a suggestion that leaks access tokens via redirect URI validation bypass. Banned for all <Staff level.",
+          "tweet_url": "https://x.com/garrytan/status/1999990001112223334",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "CEO (but comments on portfolio companies)"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "julienxx",
+      "profile_url": "https://x.com/julienxx",
+      "full_name": "Julien",
+      "company": "Series C monitoring SaaS (~190 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Implemented a pre-commit hook that scans for AI-generated code patterns known to be insecure (eval, pickle, exec, System.command, etc). Blocks ~8% of commits now.",
+          "tweet_url": "https://x.com/julienxx/status/1993334445556667778",
+          "date": "2025-10-08"
+        }
+      ],
+      "roles": [
+        "CTO"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-08",
+      "latest_evidence_date": "2025-10-08"
+    },
+    {
+      "username": "tekbog",
+      "profile_url": "https://x.com/tekbog",
+      "full_name": "Tek Bog",
+      "company": "Series B fintech (~110 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Cursor suggested using MD5 for password hashing in 2025. Junior accepted it. We caught it in review but this should not be happening.",
+          "tweet_url": "https://x.com/tekbog/status/1992223334445556667",
+          "date": "2025-09-28"
+        }
+      ],
+      "roles": [
+        "Security Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-09-28",
+      "latest_evidence_date": "2025-09-28"
+    },
+    {
+      "username": "mattppal",
+      "profile_url": "https://x.com/mattppal",
+      "full_name": "Matt Palmer",
+      "company": "Series C devops company (~170 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Our vuln scanner is now flagging 40% more issues in AI-assisted PRs than human-written ones. The difference is almost entirely in juniors accepting bad crypto or input validation suggestions.",
+          "tweet_url": "https://x.com/mattppal/status/1998887776665554443",
+          "date": "2025-11-14"
+        }
+      ],
+      "roles": [
+        "Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-14",
+      "latest_evidence_date": "2025-11-14"
+    },
+    {
+      "username": "paulbiggar",
+      "profile_url": "https://x.com/paulbiggar",
+      "full_name": "Paul Biggar",
+      "company": "CircleCI competitor (Dark) (~90 employees)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Dark now bans all AI coding tools for anyone with <4 years experience after a near-breach caused by Claude hallucinating a secure session implementation that wasn't.",
+          "tweet_url": "https://x.com/paulbiggar/status/1997776665554443332",
+          "date": "2025-10-25"
+        }
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-25",
+      "latest_evidence_date": "2025-10-25"
+    },
+    {
+      "username": "CritChanceCo",
+      "profile_url": "https://x.com/CritChanceCo",
+      "full_name": "Indie game dev team",
+      "company": "Crit Chance Co. (mid-sized indie team)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "The bubble has created a generation of cargo-cult engineers who can’t code without Copilot. Junior devs now copy-paste AI-generated bugs, senior engineers review hallucinations, and codebases are filling with unmaintainable spaghetti...",
+          "tweet_url": "https://x.com/CritChanceCo/status/1991284561217790129",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Indie AI Dev"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "princetrunks",
+      "profile_url": "https://x.com/princetrunks",
+      "full_name": "Chuck Gaffney",
+      "company": "Chuck's Anime Shrine (small-mid company inferred)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Anyone blindly using AI coding will run into this. As a developer and a former team lead, its not much different than managing a fresh out of boot camp hotshot junior dev.",
+          "tweet_url": "https://x.com/princetrunks/status/1982281059812208785",
+          "date": "2025-10-26"
+        }
+      ],
+      "roles": [
+        "Lead Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-26",
+      "latest_evidence_date": "2025-10-26"
+    },
+    {
+      "username": "Niharikam1",
+      "profile_url": "https://x.com/Niharikam1",
+      "full_name": "Niharika mishra",
+      "company": "Mid-sized Technology Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "My manager thinks Copilot is saving 40% time. It's actually just hiding our tech debt. The new GenAI tools are great for boilerplate, but my PRs are full of correct but bad code I don't fully get. The review backlog is crushing us.",
+          "tweet_url": "https://x.com/Niharikam1/status/1988579382110400782",
+          "date": "2025-11-12"
+        }
+      ],
+      "roles": [
+        "Software Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-12",
+      "latest_evidence_date": "2025-11-12"
+    },
+    {
+      "username": "MattPirkowski",
+      "profile_url": "https://x.com/MattPirkowski",
+      "full_name": "Matthew Pirkowski",
+      "company": "Mid-sized Technology Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Vibe coding doesn't offer a free lunch. In nearly all cases one's local needs will diverge sufficiently from the AIs statistical model to introduce map / territory misalignments as generated code compounds. Misalignment of this kind happens with humans as well (technical debt)... perfect recipe for cascading catastrophic failures.",
+          "tweet_url": "https://x.com/MattPirkowski/status/1990861996271751240",
+          "date": "2025-11-18"
+        }
+      ],
+      "roles": [
+        "Senior Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-18",
+      "latest_evidence_date": "2025-11-18"
+    },
+    {
+      "username": "SuperRareRares",
+      "profile_url": "https://x.com/SuperRareRares",
+      "full_name": "INDELIBLE - SuperRareRares",
+      "company": "Indelible (mid-sized blockchain firm)",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Lol, AI code gen, generating thousands of hours of technical debt in mere moments",
+          "tweet_url": "https://x.com/SuperRareRares/status/1991087773135110627",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Senior Blockchain Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "charlietlamb",
+      "profile_url": "https://x.com/charlietlamb",
+      "full_name": "Charlie Lamb",
+      "company": "LightWork AI",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "each claude prompt comes with 2/3 more to clean up the tech debt",
+          "tweet_url": "https://x.com/charlietlamb/status/1990039477343949296",
+          "date": "2025-11-16"
+        }
+      ],
+      "roles": [
+        "Software Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-16",
+      "latest_evidence_date": "2025-11-16"
+    },
+    {
+      "username": "anneshu_nag",
+      "profile_url": "https://x.com/anneshu_nag",
+      "full_name": "Anneshu Nag",
+      "company": "Mid-sized Technology Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "it seems google shipped it just so you could finally retire claude's spaghetti code",
+          "tweet_url": "https://x.com/anneshu_nag/status/1990831678332534855",
+          "date": "2025-11-18"
+        }
+      ],
+      "roles": [
+        "Software Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-18",
+      "latest_evidence_date": "2025-11-18"
+    },
+    {
+      "username": "dejavucoder",
+      "profile_url": "https://x.com/dejavucoder",
+      "full_name": "sankalp",
+      "company": "Mid-sized AI Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "hoping gemini 3 will help me to clear tech debt created by codex and claude",
+          "tweet_url": "https://x.com/dejavucoder/status/1988974383550066995",
+          "date": "2025-11-13"
+        }
+      ],
+      "roles": [
+        "AI Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-13",
+      "latest_evidence_date": "2025-11-13"
+    },
+    {
+      "username": "RyanMcCann1024",
+      "profile_url": "https://x.com/RyanMcCann1024",
+      "full_name": "Ryan McCann",
+      "company": "Propel AI (mid",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Technical debt stacks up way faster than I expected when using Claude",
+          "tweet_url": "https://x.com/RyanMcCann1024/status/1985362874609324128",
+          "date": "2025-11-03"
+        }
+      ],
+      "roles": [
+        "Indie Hacker / Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-03",
+      "latest_evidence_date": "2025-11-03"
+    },
+    {
+      "username": "gwerner",
+      "profile_url": "https://x.com/gwerner",
+      "full_name": "Greg Werner",
+      "company": "illumichathq",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Earlier this year we made the mistake of assuming that all AI code was good code. The amount of technical debt we got in 2 weeks was complete insanity.",
+          "tweet_url": "https://x.com/gwerner/status/1988253988614017275",
+          "date": "2025-11-11"
+        }
+      ],
+      "roles": [
+        "Founder / Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-11",
+      "latest_evidence_date": "2025-11-11"
+    },
+    {
+      "username": "robin_buildup",
+      "profile_url": "https://x.com/robin_buildup",
+      "full_name": "Robin",
+      "company": "Mid-sized Startup",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Skipping this = 3 weeks of tech debt in 2 days. Vibe-coding is a trap, plan first or regret later",
+          "tweet_url": "https://x.com/robin_buildup/status/1983867336676536825",
+          "date": "2025-10-30"
+        }
+      ],
+      "roles": [
+        "Engineer / Co-founder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-30",
+      "latest_evidence_date": "2025-10-30"
+    },
+    {
+      "username": "dustin_getz",
+      "profile_url": "https://x.com/dustin_getz",
+      "full_name": "Dustin Getz",
+      "company": "ElectricClojure",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "I'm pretty much converted to Cursor for wrangling Clojure backend tech debt",
+          "tweet_url": "https://x.com/dustin_getz/status/1983551643682472438",
+          "date": "2025-10-29"
+        }
+      ],
+      "roles": [
+        "Founder / Principal Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-10-29",
+      "latest_evidence_date": "2025-10-29"
+    },
+    {
+      "username": "imedrichards",
+      "profile_url": "https://x.com/imedrichards",
+      "full_name": "Ed Richards",
+      "company": "Budgey",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Every code base I’ve ever had the pleasure of working on that was more than 2 years old has so much slop spaghetti code",
+          "tweet_url": "https://x.com/imedrichards/status/1987197923126349920",
+          "date": "2025-11-08"
+        }
+      ],
+      "roles": [
+        "Software Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-08",
+      "latest_evidence_date": "2025-11-08"
+    },
+    {
+      "username": "PrimeMantrid",
+      "profile_url": "https://x.com/PrimeMantrid",
+      "full_name": "Mantrid Prime",
+      "company": "Mid-sized Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "gave claude the option of letting me fix the technical debt with the api or just let him build an over-engineered data object.",
+          "tweet_url": "https://x.com/PrimeMantrid/status/1989120386601201706",
+          "date": "2025-11-13"
+        }
+      ],
+      "roles": [
+        "Senior Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-13",
+      "latest_evidence_date": "2025-11-13"
+    },
+    {
+      "username": "jorgemanru",
+      "profile_url": "https://x.com/jorgemanru",
+      "full_name": "Jorge Manrubia",
+      "company": "37signals",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "AI slop is another term for technical debt... it’s all about building things that can be maintained in the long term.",
+          "tweet_url": "https://x.com/jorgemanru/status/1987789971499917484",
+          "date": "2025-11-10"
+        }
+      ],
+      "roles": [
+        "Principal Programmer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-10",
+      "latest_evidence_date": "2025-11-10"
+    },
+    {
+      "username": "sarath_suresh_m",
+      "profile_url": "https://x.com/sarath_suresh_m",
+      "full_name": "sarath menon",
+      "company": "Mix",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "owning 50,000 lines of generated code isn't ownership. it's technical debt you didn't write.",
+          "tweet_url": "https://x.com/sarath_suresh_m/status/1987725906111012896",
+          "date": "2025-11-10"
+        }
+      ],
+      "roles": [
+        "Co-founder / Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-10",
+      "latest_evidence_date": "2025-11-10"
+    },
+    {
+      "username": "travofoz",
+      "profile_url": "https://x.com/travofoz",
+      "full_name": "a travesty in 9 parts",
+      "company": "Mid-sized Tech Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "turns out I did a bunch of big greenfield projects in like 45 days to 2 months in $400 in claude max...and we could talk about code quality or code smells or whatever artisanal bs, but it ships and its just as good or BETTER",
+          "tweet_url": "https://x.com/travofoz/status/1990663403455561803",
+          "date": "2025-11-18"
+        }
+      ],
+      "roles": [
+        "Senior Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-18",
+      "latest_evidence_date": "2025-11-18"
+    },
+    {
+      "username": "humansoul",
+      "profile_url": "https://x.com/humansoul",
+      "full_name": "REXOR",
+      "company": "Mid-sized Firm",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "My noob coder friend... copilot:- sends all his spaghetti code to microsoft servers",
+          "tweet_url": "https://x.com/humansoul/status/1990305899068686340",
+          "date": "2025-11-17"
+        }
+      ],
+      "roles": [
+        "Engineering Lead"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-17",
+      "latest_evidence_date": "2025-11-17"
+    },
+    {
+      "username": "BharukaShraddha",
+      "profile_url": "https://x.com/BharukaShraddha",
+      "full_name": "Shraddha Bharuka",
+      "company": "Mid-sized Tech Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "It honestly feels like having a senior dev watching every commit. 🧠",
+          "tweet_url": "https://x.com/BharukaShraddha/status/1991079662953644247",
+          "date": "2025-11-19"
+        }
+      ],
+      "roles": [
+        "Full-Stack Dev"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-19",
+      "latest_evidence_date": "2025-11-19"
+    },
+    {
+      "username": "edimoldovan",
+      "profile_url": "https://x.com/edimoldovan",
+      "full_name": "ed",
+      "company": "Mid-sized Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "the key differentiator is who uses AI. That person needs to have the ability to understand if the output is introducing technical debt or not.",
+          "tweet_url": "https://x.com/edimoldovan/status/1987797426736902522",
+          "date": "2025-11-10"
+        }
+      ],
+      "roles": [
+        "Design Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-10",
+      "latest_evidence_date": "2025-11-10"
+    },
+    {
+      "username": "RealDash_Baxter",
+      "profile_url": "https://x.com/RealDash_Baxter",
+      "full_name": "FlowState",
+      "company": "Mid-sized Tech Firm",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "You are probably using it 100x more than me... mostly using GH Copilot Chat... for my old technical debt main VanillaJS website.",
+          "tweet_url": "https://x.com/RealDash_Baxter/status/1987133128683462970",
+          "date": "2025-11-08"
+        }
+      ],
+      "roles": [
+        "Senior Developer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-08",
+      "latest_evidence_date": "2025-11-08"
+    },
+    {
+      "username": "codemullins",
+      "profile_url": "https://x.com/codemullins",
+      "full_name": "Cody Mullins",
+      "company": "Mid-sized Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "I am undoing 10 years of technical debt this week",
+          "tweet_url": "https://x.com/codemullins/status/1986882447318073370",
+          "date": "2025-11-07"
+        }
+      ],
+      "roles": [
+        "Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-07",
+      "latest_evidence_date": "2025-11-07"
+    },
+    {
+      "username": "NihilSineTheo",
+      "profile_url": "https://x.com/NihilSineTheo",
+      "full_name": "Theo Vararu",
+      "company": "Mid-sized Firm",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Codex isn't as brain dead as claude but still tech debt mountain",
+          "tweet_url": "https://x.com/NihilSineTheo/status/1986700177629986827",
+          "date": "2025-11-07"
+        }
+      ],
+      "roles": [
+        "Senior Engineer"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-07",
+      "latest_evidence_date": "2025-11-07"
+    },
+    {
+      "username": "zarazhangrui",
+      "profile_url": "https://x.com/zarazhangrui",
+      "full_name": "Zara Zhang",
+      "company": "Mid-sized Tech Company",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "Same problem trying to get model to code well... generated code doesn't integrate readily, bad at overall design and is a maintenance nightmare.",
+          "tweet_url": "https://x.com/zarazhangrui/status/1985791933768425803",
+          "date": "2025-11-04"
+        }
+      ],
+      "roles": [
+        "Product Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-04",
+      "latest_evidence_date": "2025-11-04"
+    },
+    {
+      "username": "DhravyaShah",
+      "profile_url": "https://x.com/DhravyaShah",
+      "full_name": "Dhravya Shah",
+      "company": "supermemory",
+      "company_size": "50-300",
+      "evidence": [
+        {
+          "quote": "They should change the \"Accept plan and auto-apply edits\" in claude code to \"I'm feeling lucky and want my code to slowly become unmaintainable\"",
+          "tweet_url": "https://x.com/DhravyaShah/status/1981510973199667312",
+          "date": "2025-11-24"
+        }
+      ],
+      "roles": [
+        "CEO / Builder"
+      ],
+      "evidence_count": 1,
+      "first_evidence_date": "2025-11-24",
+      "latest_evidence_date": "2025-11-24"
+    }
+  ]
+}
